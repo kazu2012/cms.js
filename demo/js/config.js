@@ -42,7 +42,7 @@ $(function() {
 		// If Github mode is set, your Github username and repo name. Defaults
 		// to Github pages branch (gh-pages)
 		githubUserSettings: {
-			username: 'cdmedia',
+			username: 'kazu2012',
 			repo: 'cms.js'
 		}
 
