@@ -43,7 +43,7 @@ $(function() {
 		// to Github pages branch (gh-pages)
 		githubUserSettings: {
 			username: 'kazu2012',
-			repo: 'cms.js'
+			repo: 'cms.js-starter'
 		}
 
 	});
